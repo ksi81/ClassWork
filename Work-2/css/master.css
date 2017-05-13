@@ -1,0 +1,50 @@
+div {
+  width: 790px;
+  padding: 30px;
+}
+.italic {
+  font-style: italic;
+}
+
+p {
+font-family: sans-serif;
+  font-size: 18px;
+  line-height: 150%;
+  text-indent: 30px;
+
+}
+.bold {
+font-weight: bold;
+}
+
+.red {
+  color: red;
+}
+.italic{
+  font-style: italic;
+}
+.yellow {
+  background: yellow;
+}
+.rk1 {
+  font-family: serif;
+ 	text-transform: uppercase;
+ }
+  .rk2 {
+  font-family: sans-serif;
+  text-transform: uppercase;
+
+}
+.fontsize{
+ font-size: 24px;
+}
+.unline {
+  text-decoration: underline;
+  font-style: italic;
+  
+
+}
+.linethrough {
+  text-decoration: line-through;
+
+}

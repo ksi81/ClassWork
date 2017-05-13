@@ -1,0 +1,17 @@
+body {font-family: sans-serif, arial;
+
+}
+.italic {font-style:italic;
+}
+.red {color: red;
+font-weight: bold;
+      }
+
+.bold {font-weight: bold;}
+
+.color {
+  background: yellow;
+}
+.size {
+  font-size: 24px;
+}
